@@ -10,10 +10,6 @@ https://docs.google.com/document/d/12fPbuvpM5zs9B56L8nOtBIcx-GqkhMOLzuXrnkfPQ-I/
 
 Atividade prática utilizando MongoDB, Docker e Python para criação de coleções e operações CRUD.
 
-### Arquivos
-
-* `tarefa_mongo/init_mongo.py`
-
 ## Ivyson0
 
 * [Tarefa ODBC e ORM](Ivyson0/tarefa-orm.md)

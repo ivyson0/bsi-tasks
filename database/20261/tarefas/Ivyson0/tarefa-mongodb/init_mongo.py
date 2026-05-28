@@ -10,7 +10,7 @@ client = MongoClient(
 
 # banco de dados
 
-db = client["gerenciamento_projetos"]
+db = client["AtividadesProj"]
 
 # coleções
 
